@@ -6,6 +6,8 @@ import java.util.Scanner;
 // Another comment
 // OMG
 
+// This is a develop branch
+
 
 class Machine{
     private int[] supplies = new int[]{400, 540, 120, 9, 550};
