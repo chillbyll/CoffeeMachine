@@ -1,6 +1,12 @@
 package machine;
 import java.util.Scanner;
 
+// Idk
+// Some random comment
+// Another comment
+// OMG
+
+
 class Machine{
     private int[] supplies = new int[]{400, 540, 120, 9, 550};
     private int[] espresso = new int[]{250, 0, 16, 1, 4};
